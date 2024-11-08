@@ -1,6 +1,6 @@
 {
   "AppVersion": "2.0.7.4",
-  "Title": "Fluids Clocks",
+  "Title": "Fluids Clock",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
   "Desc": "Fluid simulation using WebGL, reacts with system audio & cursor.",
