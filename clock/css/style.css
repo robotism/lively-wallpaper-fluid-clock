@@ -1,6 +1,14 @@
-body {
-    background: #00000099;
+
+html, body {
+    background: transparent !important;
+    /* 或者使用 */
+    background-color: transparent !important;
+    
+    background: #00000099 !important;
+    /* 或者使用 */
+    background-color: #00000099 !important;
 }
+
 
 #ds {
     width: 30px;
