@@ -1,17 +1,9 @@
-# WebGL Fluid Simulation
-Modified to work with [lively](https://github.com/rocksdanister/lively) wallpaper system, reacts with system audio.
+# WebGL Fluid Simulation With Clock
 
-Download: [Fluids_v3.zip](https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases/download/v3/Fluids_v3.zip)
+depend on https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases
 
-Drag & drop the file into lively window.
+![screen](./screen.png)
 
-## References
-
-http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
-
-https://github.com/mharrys/fluids-2d
-
-https://github.com/haxiomic/GPU-Fluid-Experiments
 
 ## License
 
