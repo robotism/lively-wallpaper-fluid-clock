@@ -42,6 +42,22 @@ body
     display: flex;
 }
 
+@media screen and (max-width: 1280px) {
+    .universe {
+        scale: 1;
+    }
+}
+@media screen and (max-width: 1920px) {
+    .universe {
+        scale: 1.5;
+    }
+}
+@media screen and (max-width: 3840px) {
+    .universe {
+        scale: 2.5;
+    }
+}
+
 .universe
 {
     /* background: url("../images/universe.png") no-repeat center center; */
@@ -51,7 +67,6 @@ body
     margin: 0 auto;
     align-self: center;
     display: flex;
-    scale: 1.5;
 }
 
 .universe > .solarsystem
