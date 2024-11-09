@@ -5,13 +5,15 @@
 - 添加了 从 https://www.cnblogs.com/gangang/p/6087105.html 提取的 八大行星
 
 
-![screen](./screen.png)
-
-## 视频预览
-
 [https://www.bilibili.com/video/BV1K4DzYxEZQ](https://www.bilibili.com/video/BV1K4DzYxEZQ)
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113451896671129&bvid=BV1K4DzYxEZQ&cid=26682131434&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+[![](./screen.png)](https://www.bilibili.com/video/BV1K4DzYxEZQ)
+外观是这样：
+
+
+
+
 
 ## 使用方法
 
