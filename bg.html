@@ -19,8 +19,11 @@
         body {
             overflow: hidden;
             background: transparent !important;
-            /* 或者使用 */
             background-color: transparent !important;
+        }
+
+        iframe {
+            pointer-events: none;
         }
 
         body {
@@ -53,29 +56,29 @@
             src="./planet/index.html" allowtransparency="true" frameborder="0" width="100vw" height="100vh"
             scrolling="no">
         </iframe>
-        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 100vw;height: 100vh;z-index:0"
+        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 100vw;height: 100vh;z-index:0;pointer-events: none;"
             src="./clock/index.html" allowtransparency="true" frameborder="0" width="50vw" height="100vh"
             scrolling="no">
         </iframe>
     </div>
 
     <div class="dbclock" style="position: fixed;top: 0;left: 0;width: 100vw;height: 100vh;z-index: -1;">
-        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 50vw;height: 100vh;z-index:0"
+        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 50vw;height: 100vh;z-index:0;pointer-events: none;"
             src="./planet/index.html" allowtransparency="true" frameborder="0" width="50vw" height="100vh"
             scrolling="no">
         </iframe>
-        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 50vw;height: 100vh;z-index:0"
+        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 0;width: 50vw;height: 100vh;z-index:0;pointer-events: none;"
             src="./clock/index.html" allowtransparency="true" frameborder="0" width="50vw" height="100vh"
             scrolling="no">
         </iframe>
     </div>
 
     <div class="dbclock" style="position: fixed;top: 0;left: 50vw;width: 50vw;height: 100vh;z-index:0">
-        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 50vw;width: 50vw;height: 100vh;z-index:0"
+        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 50vw;width: 50vw;height: 100vh;z-index:0;pointer-events: none;"
             src="./planet/index.html" allowtransparency="true" frameborder="0" width="50vw" height="100vh"
             scrolling="no">
         </iframe>
-        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 50vw;width: 50vw;height: 100vh;z-index:0"
+        <iframe style="position: fixed;background-color:#00000000;top: 0;left: 50vw;width: 50vw;height: 100vh;z-index:0;pointer-events: none;"
             src="./clock/index.html" allowtransparency="true" frameborder="0" width="50vw" height="100vh"
             scrolling="no">
         </iframe>

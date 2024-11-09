@@ -23,8 +23,6 @@
 2. 方法2
     lively 直接引用 此项目的 github page 页面
 
-> 如果时钟和八大行星不显示, 请进入自定义将 BG Enable 打钩
-
 ## License
 
 The code is available under the [MIT license](LICENSE)
