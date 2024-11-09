@@ -9,9 +9,6 @@
 
 
 [![](./screen.png)](https://www.bilibili.com/video/BV1K4DzYxEZQ)
-外观是这样：
-
-
 
 
 
