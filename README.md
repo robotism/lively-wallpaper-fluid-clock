@@ -4,7 +4,6 @@
 - Add Clock (from Steam WallPaper)
 - Add Planet (from https://www.cnblogs.com/gangang/p/6087105.html)
 
-
 ## 
 
 - Preview Onlilne: [https://robotism.github.io/lively-wallpaper-fluid-clock/](https://robotism.github.io/lively-wallpaper-fluid-clock/)
@@ -14,7 +13,7 @@
 
 [![](./screen.png)](https://www.bilibili.com/video/BV1K4DzYxEZQ)
 
-
+> note: i have installed TranslucentTB also
 
 ## Usage
 
