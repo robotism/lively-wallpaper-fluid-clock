@@ -1,8 +1,8 @@
 # Self Used Lively Wallpaper Fluid 
 
 - Depend on https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases
-- Add  Clock (from Steam WallPaper)
-- Add Planet ()from https://www.cnblogs.com/gangang/p/6087105.html)
+- Add Clock (from Steam WallPaper)
+- Add Planet (from https://www.cnblogs.com/gangang/p/6087105.html)
 
 
 ## 
