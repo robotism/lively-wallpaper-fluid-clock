@@ -1,27 +1,27 @@
-# 自用Lively Wallpaper Fluid 壁纸
+# Self Used Lively Wallpaper Fluid 
 
-- 基于 https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases
-- 添加了 从 Steam WallPaper 提取的 动态时钟
-- 添加了 从 https://www.cnblogs.com/gangang/p/6087105.html 提取的 八大行星
+- Depend on https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases
+- Add  Clock (from Steam WallPaper)
+- Add Planet ()from https://www.cnblogs.com/gangang/p/6087105.html)
 
 
 ## 
 
-- 在线预览: [https://robotism.github.io/lively-wallpaper-fluid-clock/](https://robotism.github.io/lively-wallpaper-fluid-clock/)
+- Preview Onlilne: [https://robotism.github.io/lively-wallpaper-fluid-clock/](https://robotism.github.io/lively-wallpaper-fluid-clock/)
 
-- 视频预览: [https://www.bilibili.com/video/BV1K4DzYxEZQ](https://www.bilibili.com/video/BV1K4DzYxEZQ)
+- Preview Video : [https://www.bilibili.com/video/BV1K4DzYxEZQ](https://www.bilibili.com/video/BV1K4DzYxEZQ)
 
 
 [![](./screen.png)](https://www.bilibili.com/video/BV1K4DzYxEZQ)
 
 
 
-## 使用方法
+## Usage
 
-1. 方法1
-    直接下载本仓库文件放置到 lively 主题目录
-2. 方法2
-    lively 直接引用 此项目的 github page 页面
+1. method 1
+    download all of this repo files to lively theme dir
+2. method 2
+    add this online github page to lively
 
 ## License
 
