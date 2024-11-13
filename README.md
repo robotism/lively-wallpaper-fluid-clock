@@ -15,12 +15,18 @@
 
 > note: i have installed TranslucentTB also
 
+
+
 ## Usage
 
 1. method 1
     download all of this repo files to lively theme dir
 2. method 2
     add this online github page to lively
+
+
+You can use [https://convertio.co/zh/webm-converter/](https://convertio.co/zh/webm-converter/) to convert gif to webm as background
+
 
 ## License
 
